@@ -1,3 +1,8 @@
-# operating_system_preemptive_scheduling_algo
-pp : preemptive priority scheduling
-srtf : shortest remaining time first
+# Operating System Preemptive Scheduling Algorithms
+```
+pp.py : Preemptive Priority
+
+srtf.py : Shortest Remaining Time First
+```
+### Written in 
+> Python 3
